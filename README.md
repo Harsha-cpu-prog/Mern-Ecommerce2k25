@@ -37,7 +37,9 @@ Image Uploads: Cloudinary
 Dev Tools: Concurrently, dotenv
 
 🚀 Getting Started
+
 🔧 Prerequisites
+
 Node.js and npm installed
 
 MongoDB URI (local or cloud)
@@ -66,13 +68,19 @@ cd ../client
 npm install
 
 ⚙️ Environment Variables
+
 Server (server/.env)
 env
+
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
+
 CLOUDINARY_CLOUD_NAME=your_cloud_name
+
 CLOUDINARY_API_KEY=your_api_key
+
 CLOUDINARY_API_SECRET=your_api_secret
+
 PAYPAL_CLIENT_ID=your_paypal_client_id
 
 ▶️ Running the App
