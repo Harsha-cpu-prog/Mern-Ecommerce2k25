@@ -22,7 +22,7 @@ View and update orders
 Upload product images using Cloudinary
 
 🛠️ Tech Stack
-Frontend: React, React Router, Axios, Tailwind/CSS
+Frontend: React, React Router, Axios, Tailwind/CSS ,Shadecn
 
 Backend: Node.js, Express.js
 
@@ -49,31 +49,38 @@ Cloudinary account (with API key/secret)
 PayPal sandbox account
 
 📦 Installation
+
 Clone the repository:
 
 bash
 
 git clone https://github.com/your-username/ecommerce-mern-app.git
+
 cd ecommerce-mern-app
+
 Install server dependencies:
 
 bash
+
 cd server
+
 npm install
+
 Install client dependencies:
 
 bash
 
 cd ../client
+
 npm install
 
 ⚙️ Environment Variables
 
 Server (server/.env)
+
 env
 
 MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
 
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 
@@ -82,6 +89,8 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 PAYPAL_CLIENT_ID=your_paypal_client_id
+
+PAYPAL_CLIENT_SECRET=yout_paypal_client_secret
 
 ▶️ Running the App
 
