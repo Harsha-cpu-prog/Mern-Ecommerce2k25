@@ -84,16 +84,23 @@ CLOUDINARY_API_SECRET=your_api_secret
 PAYPAL_CLIENT_ID=your_paypal_client_id
 
 ▶️ Running the App
+
 Start the Server (Port 5000)
+
 cd server
+
 npm run dev
 
 Start the Client (Port 5173)
+
 cd client
+
 npm run dev
+
 Open http://localhost:5173 in your browser.
 
 🛡️ Admin Login
+
 Admin credentials can be created via MongoDB manually or seeded through your script.
 
 Once logged in as admin, additional dashboard functionalities will be available.
