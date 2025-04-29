@@ -1,6 +1,8 @@
 ✨ Features
 
 🧑 User (Client) View
+
+
 Browse products
 Search and filter products
 Add to cart
