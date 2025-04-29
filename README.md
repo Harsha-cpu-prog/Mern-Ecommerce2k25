@@ -1,5 +1,7 @@
 ✨ Features
+
 🧑 User (Client) View
+
 Browse products
 
 Search and filter products
@@ -13,6 +15,7 @@ User registration & login
 Order history
 
 🔑 Admin View
+
 Manage products (add, edit, delete)
 
 Manage users
@@ -22,6 +25,7 @@ View and update orders
 Upload product images using Cloudinary
 
 🛠️ Tech Stack
+
 Frontend: React, React Router, Axios, Tailwind/CSS ,Shadecn
 
 Backend: Node.js, Express.js
