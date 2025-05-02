@@ -24,21 +24,6 @@ View and update orders
 
 Upload product images using Cloudinary
 
-🛠️ Tech Stack
-
-Frontend: React, React Router, Axios, Tailwind/CSS ,Shadecn
-
-Backend: Node.js, Express.js
-
-Database: MongoDB (Mongoose)
-
-Authentication: JSON Web Token (JWT)
-
-Payments: PayPal API
-
-Image Uploads: Cloudinary
-
-Dev Tools: Concurrently, dotenv
 
 🚀 Getting Started
 
