@@ -58,7 +58,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/your-username/ecommerce-mern-app.git
+git clone https://github.com/username/Mern-Ecommerce2k25.git
 
 cd ecommerce-mern-app
 
